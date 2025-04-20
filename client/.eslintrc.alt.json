@@ -1,0 +1,10 @@
+{
+  "extends": ["next/core-web-vitals"],
+  "plugins": ["project-structure"],
+  "settings": {
+    "project-structure/independent-modules-config-path": "independentModules.jsonc"
+  },
+  "rules": {
+    "project-structure/independent-modules": "error"
+  }
+}
