@@ -44,7 +44,7 @@ export default function Logo() {
 
   return (
     <div className="mr-4 laptop:mr-8 logo-container">
-      <Link href="https://www.papayaglobal.com/" className="block" rel="home">
+      <Link href="/" className="block" rel="home">
         <div className="relative w-[191px] h-[39px]">
           {/* Static logo that shows by default */}
           <Image
