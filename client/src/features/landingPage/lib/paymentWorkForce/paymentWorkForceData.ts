@@ -9,7 +9,7 @@ import   {PaymentsWorkforceData} from '@/features/landingPage/type/PaymentWorkFo
     ],
     cards: [
       {
-        href: 'https://www.papayaglobal.com/payments/',
+        href: '/payments/',
         iconSrc: 'https://www.papayaglobal.com/wp-content/uploads/2024/10/Frame-1000004397-1.svg',
         iconAlt: 'Cross-border payment platform',
         iconWidth: 50,
@@ -89,7 +89,7 @@ import   {PaymentsWorkforceData} from '@/features/landingPage/type/PaymentWorkFo
     ],
     cards: [
       {
-        href: 'https://www.papayaglobal.com/platform/',
+        href: '/platform/',
         iconSrc: 'https://www.papayaglobal.com/wp-content/uploads/2024/10/Frame-1000004404.svg',
         iconAlt: 'Workforce OS SaaS platform',
         iconWidth: 51,
@@ -98,7 +98,7 @@ import   {PaymentsWorkforceData} from '@/features/landingPage/type/PaymentWorkFo
         description: 'Easily plug in your current payroll setup and unify your global payroll and payments.',
       },
       {
-        href: 'https://www.papayaglobal.com/platform/',
+        href: '/platform/',
         iconSrc: 'https://www.papayaglobal.com/wp-content/uploads/2024/10/Frame-1000004405.svg',
         iconAlt: 'EoR',
         iconWidth: 51,
@@ -116,7 +116,7 @@ import   {PaymentsWorkforceData} from '@/features/landingPage/type/PaymentWorkFo
         description: 'Manage payroll processing and payments globally in over 160 countries.',
       },
       {
-        href: 'https://www.papayaglobal.com/contingent-workforce-solutions/',
+        href: '/contingent-workforce-solutions/',
         iconSrc: 'https://www.papayaglobal.com/wp-content/uploads/2024/10/Frame-1000004406.svg',
         iconAlt: 'Contingent workforce',
         iconWidth: 51,
